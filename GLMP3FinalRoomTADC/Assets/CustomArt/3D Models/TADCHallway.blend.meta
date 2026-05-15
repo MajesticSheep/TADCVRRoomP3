@@ -3,7 +3,62 @@ guid: 0675d09838843504c98fc850b2839d45
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DarkDoorColor
+    second: {fileID: 2100000, guid: 3c0bfdd2e1f96834d80fa9525e88a96d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorColor
+    second: {fileID: 2100000, guid: 8aec5c27e3d612546a458f3c24a48b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrameWoodColor
+    second: {fileID: 2100000, guid: ec02358e1e9cf0540b8284b63045513c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrameWoodColor.001
+    second: {fileID: 2100000, guid: 9e0804ea69d8f3541a73e4d7e0f10795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 53c2cc2701b58b9439f4463563678237, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HallwayDarkerRed
+    second: {fileID: 2100000, guid: 7fc1af430a1f4c447aae6279fdc0b28c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HallwayPink
+    second: {fileID: 2100000, guid: c9f56e61ee221284c961e6e0230727df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HallwayRed
+    second: {fileID: 2100000, guid: 2ba2756debef14c44961e25ab8e169ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HallwayYellow
+    second: {fileID: 2100000, guid: e4636ae8f8427114e9624e82a895f134, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PhotoArea
+    second: {fileID: 2100000, guid: 6e9071c255cf7a24e8c1378cfb3649f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PhotoArea.001
+    second: {fileID: 2100000, guid: c28923b7b23d3204c9b4d84a9722a2bb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
