@@ -419,6 +419,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0755a2ba17a31d643b4a27e3034d8a79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sound: {fileID: 0}
+  sound: {fileID: 8300000, guid: 7866e7d8da3ac094c949e3e145103c4b, type: 3}
   volume: 1
   randomPitchVariance: 0
